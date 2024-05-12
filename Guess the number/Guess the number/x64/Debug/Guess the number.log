@@ -1,0 +1,3 @@
+﻿  Guess the number.cpp
+C:\Users\Fepsid\OneDrive\Рабочий стол\vs\Guess the number\Guess the number\Guess the number.cpp(11,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Guess the number.vcxproj -> C:\Users\Fepsid\OneDrive\Рабочий стол\vs\Guess the number\x64\Debug\Guess the number.exe
